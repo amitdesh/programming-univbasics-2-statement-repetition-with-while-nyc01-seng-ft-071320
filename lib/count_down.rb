@@ -2,7 +2,7 @@
 
 counter = 10
 
-while counter >= 0 do
+while counter >= 1 do
   puts counter
   counter -= 1
 end
